@@ -128,6 +128,12 @@ python app.py
 Access the application
 Open http://localhost:3000 in your browser to see the application.
 
+VIDEO: 
+
+https://github.com/user-attachments/assets/e778b2c7-8150-40a0-9c2d-085a6511b086
+
+
+
 🎮 Usage Guide
 Generating Kolam Patterns
 Select Pattern Type: Choose from Square, Diamond, Star, or Traditional Pulli patterns
