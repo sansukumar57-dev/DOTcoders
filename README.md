@@ -85,8 +85,17 @@ Image Processing for format conversion and optimization
 
  
 ```bash
+backend>red>app.py&&ui.html
+cd backend
+cd red
 pip install requirements.txt
-py app.py
+py app.py  # for recreate the kolam image
+
+cd ..
+
+#in backend has one app.py
+#run the app.py
+py app.py # for ui of that py
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
@@ -117,12 +126,14 @@ Based on academic research algorithms, our kolam generator uses:
 
 
 bash
-git clone https://github.com/your-username/dotcoders-kolam.git
+git clone https://github.com/sansukumar57-dev/DOTcoders-kolam.git
 cd dotcoders-kolam
 Install dependencies and start development server
 
 bash
 cd backend
+cd red
+
 pip install -r requirements.txt
 python app.py
 Access the application
@@ -154,6 +165,21 @@ Star Patterns: Radial and celestial-inspired designs
 Traditional Pulli: Authentic dot-based kolam patterns
 
 🔬 Technical Implementation
+
+
+
+
+
+backend/                        # Main Flask application
+├──               
+├── red/              
+│   ├── app.py/           # User uploads here THE MAIN RECREATION PROCESS IS HAPPEN
+│   └── requirements.txt   # Dependencies 
+├── app.py # ui for the backend is there
+└── static/                        # Frontend assets (if external) in future
+    ├── css/
+    ├── js/
+    └── images/
 Advanced Generation Algorithm
 Our kolam generator employs sophisticated algorithms based on academic research:
 
