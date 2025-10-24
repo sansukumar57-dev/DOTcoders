@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from sklearn.cluster import DBSCAN
 
-def detect_dots(image_path)):
+def detect_dots(image_path):
     img = cv2.imread(image_path))
     if img is None:
         return None, None
