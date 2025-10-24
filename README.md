@@ -23,6 +23,12 @@ Vector-Based Rendering: Smooth curves using SVG paths for authentic traditional 
 First, run the development server:
 
 ```bash
+npm install
+pnpm install
+
+then
+
+
 npm run dev
 # or
 yarn dev
@@ -252,8 +258,11 @@ Event: Smart India Hackathon 2025
 
 Email: [sansukumar57@gmail.com]
 YouTube:[Youtube link: https://youtube.com/@dotcoders-o1t?feature=shared]
-DEPLOYED ON VERCEL:[h-psi-murex.vercel.app]
+DEPLOYED ON VERCEL:
+[https://h-psi-murex.vercel.app/?size=7&duration=10000&initial-auto-animate=false]
 
+OR
+[h-psi-murex.vercel.app]
 Issues: GitHub Issues
 
 <div align="center">
