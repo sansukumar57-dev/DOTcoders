@@ -38,7 +38,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [ https://ko-73r5-git-main-sans-projects-fa4f19e8.vercel.app/?_vercel_share=6sacqmo8aRCzPHhTYEtYbYcuEZeSiKdA ] with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
