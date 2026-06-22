@@ -1,6 +1,6 @@
 ## DOTcoders
 
-
+ Live : https://ko-73r5-git-main-sans-projects-fa4f19e8.vercel.app/?_vercel_share=6sacqmo8aRCzPHhTYEtYbYcuEZeSiKdA
 A sophisticated web application for generating authentic South Indian kolam patterns using advanced mathematical algorithms and modern web technologies. Developed for Smart India Hackathon 2025.
 
 
@@ -104,7 +104,7 @@ cd ..
 py app.py # for ui of that py
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
+Open [https://ko-73r5-git-main-sans-projects-fa4f19e8.vercel.app/?_vercel_share=6sacqmo8aRCzPHhTYEtYbYcuEZeSiKdA] with your browser to see the application.
 
 🚀 Quick Start
 Prerequisites
@@ -143,7 +143,7 @@ cd red
 pip install -r requirements.txt
 python app.py
 Access the application
-Open http://localhost:3000 in your browser to see the application.
+[Open http://localhost:3000 ](https://ko-73r5-git-main-sans-projects-fa4f19e8.vercel.app/?_vercel_share=6sacqmo8aRCzPHhTYEtYbYcuEZeSiKdA)in your browser to see the application.
 
 VIDEO: 
 
